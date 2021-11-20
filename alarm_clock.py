@@ -46,7 +46,7 @@ while True:
         print("Wrong Unit")
         continue
 
-    pygame.mixer.music.load("C:\\Users\\Jai Verma\\Desktop\\Python Projects\\alarm.mp3")
+    pygame.mixer.music.load("----Enter filename for your path to a music file instead of this string---")
     pygame.mixer.music.play()
     print("ALARM RINGING!!  "*3)
     sleep(10)
